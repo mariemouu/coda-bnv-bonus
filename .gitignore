@@ -1,0 +1,7 @@
+# Exécutables générés par la compilation
+main
+a.out
+*.o
+
+# Fichiers système
+.DS_Store
